@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>innovation on HeroLFG</title>
+    <link>https://herolfg.com/categories/innovation/</link>
+    <description>Recent content in innovation on HeroLFG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 05:23:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://herolfg.com/categories/innovation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a Space Elevator</title>
+      <link>https://herolfg.com/posts/building-a-space-elevator/</link>
+      <pubDate>Fri, 02 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/building-a-space-elevator/</guid>
+      <description>The space elevator is a kind of structure which connects the surface of a large gravitational body with space. The tallest buildings on Earth are not space elevators and there are challenges we face when we construct tall buildings. I have discovered an architecture for overcoming these engineering challenges which divides the load using partitioning.
+The tallest structure possible must make use of forces like buoyancy which oppose gravity. I will explain the architecture in the most simple way using a thought experiment.</description>
+    </item>
+    
+  </channel>
+</rss>
