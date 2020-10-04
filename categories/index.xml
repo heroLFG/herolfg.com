@@ -6,15 +6,24 @@
     <description>Recent content in Categories on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 05:23:08 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2020 05:23:08 -0500</lastBuildDate>
     
 	<atom:link href="https://herolfg.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>finance</title>
+      <link>https://herolfg.com/categories/finance/</link>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/categories/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>innovation</title>
       <link>https://herolfg.com/categories/innovation/</link>
-      <pubDate>Fri, 02 Oct 2020 05:23:08 -0500</pubDate>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/categories/innovation/</guid>
       <description></description>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on HeroLFG</title>
+    <link>https://herolfg.com/tags/security/</link>
+    <description>Recent content in security on HeroLFG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 05:23:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://herolfg.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure Card Payments</title>
+      <link>https://herolfg.com/posts/secure-card-payments/</link>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/secure-card-payments/</guid>
+      <description>My wife checked our bank account this morning and discovered that our debit card had been used by a thief. I verified that the card was in my wallet. I called my bank and cancelled the card so that the thief would not be able to use it again. And I created a dispute for the charge on my bank&amp;rsquo;s website.
+My first thought was that the merchant should be responsible for this kind of thing.</description>
+    </item>
+    
+  </channel>
+</rss>

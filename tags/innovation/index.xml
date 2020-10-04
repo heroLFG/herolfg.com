@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>innovation on HeroLFG</title>
-    <link>https://herolfg.com/categories/innovation/</link>
+    <link>https://herolfg.com/tags/innovation/</link>
     <description>Recent content in innovation on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Oct 2020 05:23:08 -0500</lastBuildDate>
     
-	<atom:link href="https://herolfg.com/categories/innovation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://herolfg.com/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://herolfg.com/posts/secure-card-payments/</guid>
       <description>My wife checked our bank account this morning and discovered that our debit card had been used by a thief. I verified that the card was in my wallet. I called my bank and cancelled the card so that the thief would not be able to use it again. And I created a dispute for the charge on my bank&amp;rsquo;s website.
 My first thought was that the merchant should be responsible for this kind of thing.</description>
-    </item>
-    
-    <item>
-      <title>Building a Space Elevator</title>
-      <link>https://herolfg.com/posts/building-a-space-elevator/</link>
-      <pubDate>Fri, 02 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/posts/building-a-space-elevator/</guid>
-      <description>The space elevator is a kind of structure which connects the surface of a large gravitational body with space. The tallest buildings on Earth are not space elevators and there are challenges we face when we construct tall buildings. I have discovered an architecture for overcoming these engineering challenges which divides the load using partitioning.
-The tallest structure possible must make use of forces like buoyancy which oppose gravity. I will explain the architecture in the most simple way using a thought experiment.</description>
     </item>
     
   </channel>
