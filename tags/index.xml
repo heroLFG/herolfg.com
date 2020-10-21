@@ -6,24 +6,51 @@
     <description>Recent content in Tags on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 05:23:08 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 05:23:08 -0500</lastBuildDate>
     
 	<atom:link href="https://herolfg.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>conversation</title>
-      <link>https://herolfg.com/tags/conversation/</link>
-      <pubDate>Mon, 12 Oct 2020 05:23:08 -0500</pubDate>
+      <title>data</title>
+      <link>https://herolfg.com/tags/data/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
       
-      <guid>https://herolfg.com/tags/conversation/</guid>
+      <guid>https://herolfg.com/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edutcation</title>
+      <link>https://herolfg.com/tags/edutcation/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/edutcation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experiment</title>
+      <link>https://herolfg.com/tags/experiment/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freedom</title>
+      <link>https://herolfg.com/tags/freedom/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/freedom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>government</title>
       <link>https://herolfg.com/tags/government/</link>
-      <pubDate>Sun, 04 Oct 2020 08:00:08 -0500</pubDate>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/government/</guid>
       <description></description>
@@ -32,9 +59,27 @@
     <item>
       <title>justice</title>
       <link>https://herolfg.com/tags/justice/</link>
-      <pubDate>Sun, 04 Oct 2020 08:00:08 -0500</pubDate>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/justice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meritocracy</title>
+      <link>https://herolfg.com/tags/meritocracy/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/meritocracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conversation</title>
+      <link>https://herolfg.com/tags/conversation/</link>
+      <pubDate>Mon, 12 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/conversation/</guid>
       <description></description>
     </item>
     
@@ -143,15 +188,6 @@
       <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/minerval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meritocracy</title>
-      <link>https://herolfg.com/tags/meritocracy/</link>
-      <pubDate>Fri, 25 Sep 2020 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/meritocracy/</guid>
       <description></description>
     </item>
     
