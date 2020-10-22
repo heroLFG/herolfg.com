@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>politics on HeroLFG</title>
+    <link>https://herolfg.com/tags/politics/</link>
+    <description>Recent content in politics on HeroLFG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2020 05:23:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://herolfg.com/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Win My Vote in 2020</title>
+      <link>https://herolfg.com/posts/how-to-win-my-vote-in-2020/</link>
+      <pubDate>Thu, 22 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/how-to-win-my-vote-in-2020/</guid>
+      <description>I have been thinking about who I should vote for POTUS in 2020.
+I would vote for the candidate who abandons the mainstream and supports new platforms for information distribution and sense making. Twitter and Facebook are aweful. And I don&amp;rsquo;t think the candidate should just go over to Parler. Ideally the POTUS would use an open source Mastadon server or some other federated social media platform which allows for decentralization and owning your own data.</description>
+    </item>
+    
+  </channel>
+</rss>
