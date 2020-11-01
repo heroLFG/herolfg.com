@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>politics on HeroLFG</title>
-    <link>https://herolfg.com/tags/politics/</link>
-    <description>Recent content in politics on HeroLFG</description>
+    <title>sensemaking on HeroLFG</title>
+    <link>https://herolfg.com/tags/sensemaking/</link>
+    <description>Recent content in sensemaking on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Nov 2020 05:23:08 -0500</lastBuildDate>
     
-	<atom:link href="https://herolfg.com/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://herolfg.com/tags/sensemaking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Our malfunctioning sense making organ is the fundamental sickness we can all be trying to heal.
 We can measure our love based on our attention. Our attention is fundamental to our sense making. And so our love and our sense making are related individually and collectively.
  Love everyone  Love by proximity Love by relevance Be honest.    Love everyone. One of my claims is that a properly functioning sense making organ should be loving and able to prioritize information based on its relevance.</description>
-    </item>
-    
-    <item>
-      <title>How to Win My Vote in 2020</title>
-      <link>https://herolfg.com/posts/how-to-win-my-vote-in-2020/</link>
-      <pubDate>Thu, 22 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/posts/how-to-win-my-vote-in-2020/</guid>
-      <description>I have been thinking about who I should vote for POTUS in 2020.
-I would vote for the candidate who abandons the mainstream and supports new platforms for information distribution and sense making. Twitter and Facebook are aweful. And I don&amp;rsquo;t think the candidate should just go over to Parler. Ideally the POTUS would use an open source Mastadon server or some other federated social media platform which allows for decentralization and owning your own data.</description>
     </item>
     
   </channel>
