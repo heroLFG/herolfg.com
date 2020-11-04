@@ -6,7 +6,7 @@
     <description>Recent content in Tags on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 05:23:08 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2020 04:23:08 -0500</lastBuildDate>
     
 	<atom:link href="https://herolfg.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>education</title>
       <link>https://herolfg.com/tags/education/</link>
-      <pubDate>Sun, 01 Nov 2020 05:23:08 -0500</pubDate>
+      <pubDate>Wed, 04 Nov 2020 04:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensemaking</title>
+      <link>https://herolfg.com/tags/sensemaking/</link>
+      <pubDate>Wed, 04 Nov 2020 04:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/sensemaking/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Sun, 01 Nov 2020 05:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/religion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sensemaking</title>
-      <link>https://herolfg.com/tags/sensemaking/</link>
-      <pubDate>Sun, 01 Nov 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/sensemaking/</guid>
       <description></description>
     </item>
     
