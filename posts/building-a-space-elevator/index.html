@@ -115,7 +115,7 @@
             </span>
             <span class="reading-time">
               <i class="fas fa-clock"></i>
-              2-minute read
+              4-minute read
             </span>
           </div>
           <div class="categories">
@@ -132,7 +132,9 @@
       </header>
 
       <div>
-        <p>The space elevator is a kind of structure which connects the surface of a large gravitational body with space.  The tallest buildings on Earth are not space elevators and there are challenges we face when we construct tall buildings.  I have discovered an architecture for overcoming these engineering challenges which divides the load using partitioning.</p>
+        <h1 id="introduction">Introduction</h1>
+<p><a href="https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/space-elevator.md">this post has been edited</a></p>
+<p>The space elevator is a kind of structure which connects the surface of a large gravitational body with space.  The tallest buildings on Earth are not space elevators and there are challenges we face when we construct tall buildings.  I have discovered an architecture for overcoming these engineering challenges which divides the load using partitioning.</p>
 <p>The tallest structure possible must make use of forces like buoyancy which oppose gravity.  I will explain the architecture in the most simple way using a thought experiment.  Create a helium balloon and tie it to the longest string possible.  At some point the downward gravitational force of the system will exceed the upward buoyant force of the helium balloon.  This buoyant system can be considered as a link in a chain of similar buoyant systems.  The end of the string on each link is connected to another balloon on another link.  We now have the ability to create a vertical structure which is taller than Mount Everest.</p>
 <p>There are limits to the strategy of using a balloon because the buoyant force decreases as the balloon rises in the atmosphere.  The links which will be highest can have less string.  Other kinds of forces which oppose gravity could be used to account for this fact and reach greater heights.</p>
 <p>Another way I have imagined this vertical structure is by creating a quadcopter that is tethered to a power cord and creates a link in a chain similar to how we imagined the chain of balloons and strings.  The difference between the quadcopter and power cord link is that you can begin to construct a vertical structure that looks very much like a power distribution system we use in the power grid today.  In this thought experiment of mechanized flying objects connected in a chain which forms a power distribution circuit I have thought it necessary to tether this vertical structure to a reliable power source.</p>
@@ -142,6 +144,22 @@
   <iframe src="https://www.youtube.com/embed/WEmPVD8GNbU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
+<h1 id="some-math">Some Math</h1>
+<h2 id="assume-we-have-a-nuclear-reactor">Assume We Have a Nuclear Reactor</h2>
+<p>How much electricity does a nuclear <a href="https://www.eia.gov/tools/faqs/faq.php?id=104&amp;t=3">power plant generate</a>?</p>
+<blockquote>
+<p>The Palo Verde nuclear power plant in Arizona is the largest nuclear power plant in the United States with three reactors and a total net summer electricity generating capacity of about <code>3,937 MW</code></p>
+</blockquote>
+<p>How many large drones can we service with this nuclear power plant if we ignore the mass of the power grid used to service the drones?</p>
+<p>I found that DJI has some Agras model aircraft for agriculture use.  They have a takeoff weight of <code>23 kg</code> and can remain in the air for about <code>10 minutes</code> using a <code>12,000 mAh</code> battery at <code>44.4 V</code>.  This is a <code>532.8 Wh</code> battery dervied from the equation <code>Volts * Amp-hours = Watt-hours</code>.  A <code>532.8 W</code> aircraft would have flown for 1 hour on this battery.  But this aircraft flew for 10 minutes.  Therefore, this aircraft uses <code>3196.8 W</code>.</p>
+<p>We can now get an estimate for the total number of aircraft which can be powered by this nuclear power plant:
+<code>3,937,000,000 / 3,196.8 = 1,231,544.04 drones</code></p>
+<p>If each drone were about 1 meter apart, then the structure could extend to over 1200 km away from the Earth&rsquo;s surface.  To put this in perspective, the International Space Station is an average of 400 km away from the Earth&rsquo;s surface.</p>
+<h3 id="notes">notes</h3>
+<ul>
+<li>These calculations do not consider the mass of the power grid which would need to be suspended in air by the swarm of drones.</li>
+<li>The drone I looked at has a service ceiling of 2 km.</li>
+</ul>
 
       </div>
 
