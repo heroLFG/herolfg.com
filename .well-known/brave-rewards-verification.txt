@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: herolfg.com
+Token: cba8134bdff3c0c9ab9a05406ad57b2a8afe0aa4096598b694a88b1c84853933
