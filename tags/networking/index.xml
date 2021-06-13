@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>networking on HeroLFG</title>
+    <title>Networking on HeroLFG</title>
     <link>https://herolfg.com/tags/networking/</link>
-    <description>Recent content in networking on HeroLFG</description>
+    <description>Recent content in Networking on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 05:23:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 05:23:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://herolfg.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Cheap Federated Social Networking Protocol</title>
       <link>https://herolfg.com/posts/cheap-federated-social-networking-protocol/</link>

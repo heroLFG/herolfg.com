@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>process on HeroLFG</title>
+    <title>Process on HeroLFG</title>
     <link>https://herolfg.com/tags/process/</link>
-    <description>Recent content in process on HeroLFG</description>
+    <description>Recent content in Process on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2020 09:18:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2020 09:18:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://herolfg.com/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Disagreement</title>
       <link>https://herolfg.com/posts/disagreement/</link>
