@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HeroLFG</title>
@@ -6,310 +6,27 @@
     <description>Recent content in Tags on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 05:23:08 -0500</lastBuildDate>
-    
-	<atom:link href="https://herolfg.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 13 Aug 2021 06:23:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Advertising</title>
-      <link>https://herolfg.com/tags/advertising/</link>
-      <pubDate>Sat, 26 Dec 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/advertising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arts</title>
-      <link>https://herolfg.com/tags/arts/</link>
-      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/arts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attention</title>
-      <link>https://herolfg.com/tags/attention/</link>
-      <pubDate>Thu, 29 Apr 2021 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Communication</title>
-      <link>https://herolfg.com/tags/communication/</link>
-      <pubDate>Sat, 06 Jun 2020 07:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://herolfg.com/tags/data/</link>
-      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economics</title>
-      <link>https://herolfg.com/tags/economics/</link>
-      <pubDate>Mon, 08 Jun 2020 06:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/economics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://herolfg.com/tags/education/</link>
-      <pubDate>Thu, 29 Apr 2021 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elevator</title>
-      <link>https://herolfg.com/tags/elevator/</link>
-      <pubDate>Fri, 02 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/elevator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enginering</title>
-      <link>https://herolfg.com/tags/enginering/</link>
-      <pubDate>Sun, 31 May 2020 09:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/enginering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethics</title>
-      <link>https://herolfg.com/tags/ethics/</link>
-      <pubDate>Sun, 06 Dec 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experiment</title>
-      <link>https://herolfg.com/tags/experiment/</link>
-      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/experiment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>https://herolfg.com/tags/finance/</link>
-      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Freedom</title>
-      <link>https://herolfg.com/tags/freedom/</link>
-      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/freedom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Futurism</title>
+      <title>futurism</title>
       <link>https://herolfg.com/tags/futurism/</link>
-      <pubDate>Sun, 13 Jun 2021 06:23:08 -0500</pubDate>
+      <pubDate>Fri, 13 Aug 2021 06:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/futurism/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Government</title>
-      <link>https://herolfg.com/tags/government/</link>
-      <pubDate>Fri, 25 Jun 2021 05:21:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://herolfg.com/tags/health/</link>
-      <pubDate>Thu, 22 Apr 2021 04:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ideology</title>
-      <link>https://herolfg.com/tags/ideology/</link>
-      <pubDate>Sun, 06 Dec 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/ideology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imagination</title>
+      <title>imagination</title>
       <link>https://herolfg.com/tags/imagination/</link>
-      <pubDate>Sun, 13 Jun 2021 06:23:08 -0500</pubDate>
+      <pubDate>Fri, 13 Aug 2021 06:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/imagination/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Innovation</title>
-      <link>https://herolfg.com/tags/innovation/</link>
-      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/innovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Justice</title>
-      <link>https://herolfg.com/tags/justice/</link>
-      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/justice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Love</title>
-      <link>https://herolfg.com/tags/love/</link>
-      <pubDate>Sun, 01 Nov 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>https://herolfg.com/tags/media/</link>
-      <pubDate>Fri, 23 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meritocracy</title>
-      <link>https://herolfg.com/tags/meritocracy/</link>
-      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/meritocracy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minerva</title>
-      <link>https://herolfg.com/tags/minerva/</link>
-      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/minerva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minerval</title>
-      <link>https://herolfg.com/tags/minerval/</link>
-      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/minerval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Morality</title>
-      <link>https://herolfg.com/tags/morality/</link>
-      <pubDate>Sun, 04 Oct 2020 08:00:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/morality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Networking</title>
-      <link>https://herolfg.com/tags/networking/</link>
-      <pubDate>Fri, 23 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Payments</title>
-      <link>https://herolfg.com/tags/payments/</link>
-      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/payments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peace</title>
-      <link>https://herolfg.com/tags/peace/</link>
-      <pubDate>Sun, 13 Jun 2021 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/peace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philosophy</title>
-      <link>https://herolfg.com/tags/philosophy/</link>
-      <pubDate>Tue, 09 Jun 2020 06:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://herolfg.com/tags/politics/</link>
-      <pubDate>Sun, 13 Jun 2021 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>https://herolfg.com/tags/process/</link>
-      <pubDate>Tue, 09 Jun 2020 09:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protocol</title>
-      <link>https://herolfg.com/tags/protocol/</link>
-      <pubDate>Sat, 06 Jun 2020 07:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/protocol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Religion</title>
+      <title>religion</title>
       <link>https://herolfg.com/tags/religion/</link>
       <pubDate>Mon, 28 Jun 2021 05:21:08 -0500</pubDate>
       
@@ -318,25 +35,61 @@
     </item>
     
     <item>
-      <title>Remote</title>
-      <link>https://herolfg.com/tags/remote/</link>
-      <pubDate>Sat, 28 Mar 2020 09:18:08 -0500</pubDate>
+      <title>government</title>
+      <link>https://herolfg.com/tags/government/</link>
+      <pubDate>Fri, 25 Jun 2021 05:21:08 -0500</pubDate>
       
-      <guid>https://herolfg.com/tags/remote/</guid>
+      <guid>https://herolfg.com/tags/government/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Security</title>
-      <link>https://herolfg.com/tags/security/</link>
-      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      <title>peace</title>
+      <link>https://herolfg.com/tags/peace/</link>
+      <pubDate>Sun, 13 Jun 2021 06:23:08 -0500</pubDate>
       
-      <guid>https://herolfg.com/tags/security/</guid>
+      <guid>https://herolfg.com/tags/peace/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sensemaking</title>
+      <title>politics</title>
+      <link>https://herolfg.com/tags/politics/</link>
+      <pubDate>Sun, 13 Jun 2021 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attention</title>
+      <link>https://herolfg.com/tags/attention/</link>
+      <pubDate>Thu, 29 Apr 2021 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://herolfg.com/tags/education/</link>
+      <pubDate>Thu, 29 Apr 2021 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://herolfg.com/tags/health/</link>
+      <pubDate>Thu, 22 Apr 2021 04:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensemaking</title>
       <link>https://herolfg.com/tags/sensemaking/</link>
       <pubDate>Thu, 18 Mar 2021 05:06:08 -0500</pubDate>
       
@@ -345,7 +98,61 @@
     </item>
     
     <item>
-      <title>Social</title>
+      <title>advertising</title>
+      <link>https://herolfg.com/tags/advertising/</link>
+      <pubDate>Sat, 26 Dec 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/advertising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethics</title>
+      <link>https://herolfg.com/tags/ethics/</link>
+      <pubDate>Sun, 06 Dec 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ideology</title>
+      <link>https://herolfg.com/tags/ideology/</link>
+      <pubDate>Sun, 06 Dec 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/ideology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>https://herolfg.com/tags/love/</link>
+      <pubDate>Sun, 01 Nov 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media</title>
+      <link>https://herolfg.com/tags/media/</link>
+      <pubDate>Fri, 23 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://herolfg.com/tags/networking/</link>
+      <pubDate>Fri, 23 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
       <link>https://herolfg.com/tags/social/</link>
       <pubDate>Fri, 23 Oct 2020 05:23:08 -0500</pubDate>
       
@@ -354,25 +161,7 @@
     </item>
     
     <item>
-      <title>Software</title>
-      <link>https://herolfg.com/tags/software/</link>
-      <pubDate>Sun, 31 May 2020 09:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space</title>
-      <link>https://herolfg.com/tags/space/</link>
-      <pubDate>Fri, 02 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
+      <title>technology</title>
       <link>https://herolfg.com/tags/technology/</link>
       <pubDate>Fri, 23 Oct 2020 05:23:08 -0500</pubDate>
       
@@ -381,7 +170,214 @@
     </item>
     
     <item>
-      <title>Telework</title>
+      <title>data</title>
+      <link>https://herolfg.com/tags/data/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experiment</title>
+      <link>https://herolfg.com/tags/experiment/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freedom</title>
+      <link>https://herolfg.com/tags/freedom/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>justice</title>
+      <link>https://herolfg.com/tags/justice/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/justice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meritocracy</title>
+      <link>https://herolfg.com/tags/meritocracy/</link>
+      <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/meritocracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>morality</title>
+      <link>https://herolfg.com/tags/morality/</link>
+      <pubDate>Sun, 04 Oct 2020 08:00:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/morality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>https://herolfg.com/tags/finance/</link>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innovation</title>
+      <link>https://herolfg.com/tags/innovation/</link>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>payments</title>
+      <link>https://herolfg.com/tags/payments/</link>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/payments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://herolfg.com/tags/security/</link>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elevator</title>
+      <link>https://herolfg.com/tags/elevator/</link>
+      <pubDate>Fri, 02 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/elevator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>space</title>
+      <link>https://herolfg.com/tags/space/</link>
+      <pubDate>Fri, 02 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arts</title>
+      <link>https://herolfg.com/tags/arts/</link>
+      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/arts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minerva</title>
+      <link>https://herolfg.com/tags/minerva/</link>
+      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/minerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minerval</title>
+      <link>https://herolfg.com/tags/minerval/</link>
+      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/minerval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
+      <link>https://herolfg.com/tags/process/</link>
+      <pubDate>Tue, 09 Jun 2020 09:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://herolfg.com/tags/philosophy/</link>
+      <pubDate>Tue, 09 Jun 2020 06:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>https://herolfg.com/tags/economics/</link>
+      <pubDate>Mon, 08 Jun 2020 06:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication</title>
+      <link>https://herolfg.com/tags/communication/</link>
+      <pubDate>Sat, 06 Jun 2020 07:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protocol</title>
+      <link>https://herolfg.com/tags/protocol/</link>
+      <pubDate>Sat, 06 Jun 2020 07:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enginering</title>
+      <link>https://herolfg.com/tags/enginering/</link>
+      <pubDate>Sun, 31 May 2020 09:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/enginering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://herolfg.com/tags/software/</link>
+      <pubDate>Sun, 31 May 2020 09:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote</title>
+      <link>https://herolfg.com/tags/remote/</link>
+      <pubDate>Sat, 28 Mar 2020 09:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telework</title>
       <link>https://herolfg.com/tags/telework/</link>
       <pubDate>Sat, 28 Mar 2020 09:18:08 -0500</pubDate>
       

@@ -1,15 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Futurism on HeroLFG</title>
+    <title>futurism on HeroLFG</title>
     <link>https://herolfg.com/tags/futurism/</link>
-    <description>Recent content in Futurism on HeroLFG</description>
+    <description>Recent content in futurism on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 06:23:08 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 06:23:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/futurism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crowdsource Mail</title>
+      <link>https://herolfg.com/posts/crowdsource-mail/</link>
+      <pubDate>Fri, 13 Aug 2021 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/crowdsource-mail/</guid>
+      <description>After many years of trying to find a group to help, I was introduced to Jacob Faturechi who shared an experimental idea to fix distributed cognition (or cognitive outsourcing). We call it crowdsource mail.</description>
+    </item>
     
-	<atom:link href="https://herolfg.com/tags/futurism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global Climate Change</title>
+      <link>https://herolfg.com/posts/global-climate-change/</link>
+      <pubDate>Fri, 13 Aug 2021 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/global-climate-change/</guid>
+      <description>After many years of trying to find a group to help, I was introduced to Jason Delport who shared an idea to solve climate change problems with the Convective Heat Engine (CHE).</description>
+    </item>
     
+    <item>
+      <title>Side Projects</title>
+      <link>https://herolfg.com/posts/side-projects/</link>
+      <pubDate>Fri, 13 Aug 2021 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/side-projects/</guid>
+      <description> My Religion Convective Heat Engine (CHE) Crowdsource Mail Secure Card Payments The Space Elevator Minerval Arts  </description>
+    </item>
     
     <item>
       <title>Limited Transparency for Peace on Earth</title>

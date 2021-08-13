@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Process on HeroLFG</title>
+    <title>process on HeroLFG</title>
     <link>https://herolfg.com/categories/process/</link>
-    <description>Recent content in Process on HeroLFG</description>
+    <description>Recent content in process on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 06:23:08 -0500</lastBuildDate>
-    
-	<atom:link href="https://herolfg.com/categories/process/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 29 Sep 2020 06:23:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/categories/process/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minerval Arts</title>
       <link>https://herolfg.com/posts/minerval-arts/</link>

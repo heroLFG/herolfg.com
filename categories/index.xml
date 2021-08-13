@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HeroLFG</title>
@@ -6,40 +6,9 @@
     <description>Recent content in Categories on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2020 08:00:08 -0500</lastBuildDate>
-    
-	<atom:link href="https://herolfg.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 21 Oct 2020 05:23:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://herolfg.com/categories/blog/</link>
-      <pubDate>Sun, 04 Oct 2020 08:00:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://herolfg.com/categories/education/</link>
-      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/categories/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>https://herolfg.com/categories/finance/</link>
-      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/categories/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Government</title>
+      <title>government</title>
       <link>https://herolfg.com/categories/government/</link>
       <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
       
@@ -48,7 +17,7 @@
     </item>
     
     <item>
-      <title>Innovation</title>
+      <title>innovation</title>
       <link>https://herolfg.com/categories/innovation/</link>
       <pubDate>Wed, 21 Oct 2020 05:23:08 -0500</pubDate>
       
@@ -57,7 +26,34 @@
     </item>
     
     <item>
-      <title>Process</title>
+      <title>blog</title>
+      <link>https://herolfg.com/categories/blog/</link>
+      <pubDate>Sun, 04 Oct 2020 08:00:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>https://herolfg.com/categories/finance/</link>
+      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/categories/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://herolfg.com/categories/education/</link>
+      <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
       <link>https://herolfg.com/categories/process/</link>
       <pubDate>Tue, 29 Sep 2020 06:23:08 -0500</pubDate>
       
