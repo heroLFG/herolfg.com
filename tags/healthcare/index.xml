@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>economics on HeroLFG</title>
-    <link>https://herolfg.com/tags/economics/</link>
-    <description>Recent content in economics on HeroLFG</description>
+    <title>healthcare on HeroLFG</title>
+    <link>https://herolfg.com/tags/healthcare/</link>
+    <description>Recent content in healthcare on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 06:18:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 06:18:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sensemaking in Healthcare</title>
       <link>https://herolfg.com/posts/sensemaking-in-healthcare/</link>
@@ -16,16 +16,6 @@
       <description>Introduction One of my first posts was about a universal problem I called the Human Resource Problem (HRP). If the universal problem is HRP then the universal solution is Sensemaking.
 I want to point our attention at our healthcare problems and attempt to shine light on some more specific human resource problems and sensemaking solutions in our healthcare system.
 Health Problems We all experience healthcare problems in our lives. And the people who are licensed and approved to provide healthcare solutions to our healthcare problems make mistakes.</description>
-    </item>
-    
-    <item>
-      <title>My Economics Knowledge</title>
-      <link>https://herolfg.com/posts/my-economics-knowledge/</link>
-      <pubDate>Mon, 08 Jun 2020 06:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/posts/my-economics-knowledge/</guid>
-      <description>When I write about a world without hunger curi (Elliot Temple) wonders what I know about economics.
-The Basics There is a supply of goods and services. There is demand for those goods and services. The prices of goods and services are related to supply and demand. If a good or service is scarce the price can be higher than when that same good or service is abundant assuming all other variables like demand are the same.</description>
     </item>
     
   </channel>
