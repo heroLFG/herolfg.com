@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://herolfg.com/</loc>
+    <lastmod>2022-02-23T05:21:08-05:00</lastmod>
+  </url><url>
+    <loc>https://herolfg.com/posts/less-wrong-views/</loc>
+    <lastmod>2022-02-23T05:21:08-05:00</lastmod>
+  </url><url>
+    <loc>https://herolfg.com/posts/</loc>
+    <lastmod>2022-02-23T05:21:08-05:00</lastmod>
+  </url><url>
+    <loc>https://herolfg.com/tags/religion/</loc>
+    <lastmod>2022-02-23T05:21:08-05:00</lastmod>
+  </url><url>
+    <loc>https://herolfg.com/tags/</loc>
+    <lastmod>2022-02-23T05:21:08-05:00</lastmod>
+  </url><url>
     <loc>https://herolfg.com/categories/blog/</loc>
     <lastmod>2022-02-02T06:23:08-05:00</lastmod>
   </url><url>
@@ -14,19 +29,10 @@
     <loc>https://herolfg.com/categories/education/</loc>
     <lastmod>2022-02-02T06:23:08-05:00</lastmod>
   </url><url>
-    <loc>https://herolfg.com/</loc>
-    <lastmod>2022-02-02T06:23:08-05:00</lastmod>
-  </url><url>
-    <loc>https://herolfg.com/posts/</loc>
-    <lastmod>2022-02-02T06:23:08-05:00</lastmod>
-  </url><url>
     <loc>https://herolfg.com/categories/process/</loc>
     <lastmod>2022-02-02T06:23:08-05:00</lastmod>
   </url><url>
     <loc>https://herolfg.com/posts/research-and-development/</loc>
-    <lastmod>2022-02-02T06:23:08-05:00</lastmod>
-  </url><url>
-    <loc>https://herolfg.com/tags/</loc>
     <lastmod>2022-02-02T06:23:08-05:00</lastmod>
   </url><url>
     <loc>https://herolfg.com/tags/arts/</loc>
@@ -109,9 +115,6 @@
   </url><url>
     <loc>https://herolfg.com/posts/government/</loc>
     <lastmod>2021-07-20T05:21:08-05:00</lastmod>
-  </url><url>
-    <loc>https://herolfg.com/tags/religion/</loc>
-    <lastmod>2021-06-28T05:21:08-05:00</lastmod>
   </url><url>
     <loc>https://herolfg.com/posts/reminders/</loc>
     <lastmod>2021-06-28T05:21:08-05:00</lastmod>
