@@ -1,7 +1,7 @@
-name: HeroLFG Discord
+name: HeroLFG Page Build Discord Notif
 on: [page_build]
 jobs:
-  Share With Discord Server:
+  Share-Page-Build-With-Discord-Server:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

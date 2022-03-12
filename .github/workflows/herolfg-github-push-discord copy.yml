@@ -1,7 +1,7 @@
-name: HeroLFG Discord
+name: HeroLFG Push Discord Notif
 on: [push]
 jobs:
-  Share With Discord Server:
+  Share-Push-With-Discord-Server:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
