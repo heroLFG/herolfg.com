@@ -32,3 +32,4 @@ jobs:
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/9197206?v=4'
           DISCORD_EMBEDS: '[{"title":"Build status is: ${{ github.event.build.status }}"}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
+        if: steps.git_diff.outputs.test
