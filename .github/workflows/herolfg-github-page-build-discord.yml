@@ -7,6 +7,11 @@ jobs:
       - name: Dump GitHub context
         id: github_context_step
         run: echo '${{ toJSON(github) }}'
+      - run: echo "using https://github.com/marketplace/actions/get-diff-action"
+      - uses: technote-space/get-diff-action@v6
+        with:
+          PATTERNS: |
+            !.github
       - uses: actions/checkout@v2
       - run: echo "using https://github.com/marketplace/actions/actions-for-discord"
       - name: Discord Notification actions-for-discord
@@ -14,5 +19,6 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_HEROLFG_PLAYGROUND_WEBHOOK }}
           # DISCORD_USERNAME: 'Page Build Status'
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/9197206?v=4'
-          DISCORD_EMBEDS: '[{"title":"Build stats us: ${{ github.event.build.status }}"}]'
+          DISCORD_EMBEDS: '[{"title":"Build status is: ${{ github.event.build.status }}"}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
+        if: env.GIT_DIF
