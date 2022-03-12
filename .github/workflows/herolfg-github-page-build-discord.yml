@@ -18,7 +18,7 @@ jobs:
       - name: dump job context
         run: echo '${{ toJSON(job) }}'
       - name: dump steps context
-        run: echo '${{ toJSON(step) }}'
+        run: echo '${{ toJSON(steps) }}'
       - run: echo "using https://github.com/marketplace/actions/actions-for-discord"
       - name: Discord Notification actions-for-discord
         env:
