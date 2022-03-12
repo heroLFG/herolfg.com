@@ -1,5 +1,5 @@
 name: HeroLFG Page Build Discord Notif
-on: [page_build]
+on: [push, page_build]
 jobs:
   Share-Page-Build-With-Discord-Server:
     runs-on: ubuntu-latest
