@@ -10,8 +10,6 @@ jobs:
       - name: Dump GitHub context
         id: github_context_step
         run: echo '${{ toJSON(github) }}'
-      - name: git info
-        run: git version && git diff HEAD HEAD^ --name-only
       - name: Diff Ignore .github
         id: git_diff
         run: echo "::set-output name=test::$(git diff HEAD HEAD^ --name-only -- :^.github)"
