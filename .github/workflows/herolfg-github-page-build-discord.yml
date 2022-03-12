@@ -14,11 +14,15 @@ jobs:
         run: git version && git diff HEAD HEAD^ --name-only
       - name: Diff Ignore .github
         id: git_diff
-        # run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only -- :^.github)
         run: echo "::set-output name=test::$(git diff HEAD HEAD^ --name-only -- :^.github)"
+      - name: git log
+        id: git_log
+        run: echo "::set-output name=test::$(git log -1 --pretty=format:"%s")"
+      - name: decide share
+        id: share
+        run: echo "::set-output name=test::$(git log -1 --pretty=format:"%s" | grep share:)"
       - name: Diff Not Ignore .github
         id: git_diff_no_ignore
-        # run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only)
         run: echo "::set-output name=test::$(git diff HEAD HEAD^ --name-only)"
       - name: dump job context
         run: echo '${{ toJSON(job) }}'
@@ -28,8 +32,8 @@ jobs:
       - name: Discord Notification actions-for-discord
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_HEROLFG_PLAYGROUND_WEBHOOK }}
-          # DISCORD_USERNAME: 'Page Build Status'
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/9197206?v=4'
-          DISCORD_EMBEDS: '[{"title":"Build status is: ${{ github.event.build.status }}"}]'
+          DISCORD_EMBEDS: '[{"title":"update to https://herolfg.com"},{"title":"${{ steps.git_log.outputs.test }}"}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
-        if: steps.git_diff.outputs.test
+        if: steps.share.outputs.test
+        # if: steps.git_diff.outputs.test
