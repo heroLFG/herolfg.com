@@ -10,10 +10,12 @@ jobs:
         run: echo '${{ toJSON(github) }}'
       - name: Diff Ignore .github
         id: git_diff
-        run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only -- :^.github)
+        # run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only -- :^.github)
+        run: export GIT_DIFF_NO_IGNORE=gp1
       - name: Diff Not Ignore .github
         id: git_diff_no_ignore
-        run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only)
+        # run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only)
+        run: export GIT_DIFF_NO_IGNORE=gp2
       - name: dump env context
         run: echo '${{ toJSON(env) }}'
       - name: dump job context
@@ -29,4 +31,3 @@ jobs:
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/9197206?v=4'
           DISCORD_EMBEDS: '[{"title":"Rebuilding https://herolfg.com"},{"title":"${{ github.event.head_commit.message }}"},{"title":"Wait for build status..."}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
-        if: git diff HEAD HEAD^ --name-only -- :^.github
