@@ -8,11 +8,8 @@ jobs:
         id: github_context_step
         run: echo '${{ toJSON(github) }}'
       - uses: actions/checkout@v2
-      - run: echo "using https://github.com/marketplace/actions/get-diff-action"
-      - uses: technote-space/get-diff-action@v6
-        with:
-          PATTERNS: |
-            !.github
+        run: git diff HEAD HEAD^ --name-only -- :^.github
+        run: git diff HEAD HEAD^ --name-only
       - run: echo "using https://github.com/marketplace/actions/actions-for-discord"
       - name: Discord Notification actions-for-discord
         env:
@@ -22,4 +19,4 @@ jobs:
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/9197206?v=4'
           DISCORD_EMBEDS: '[{"title":"Rebuilding https://herolfg.com"},{"title":"${{ github.event.head_commit.message }}"},{"title":"Wait for build status..."}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
-        if: env.GIT_DIF
+        if: git diff HEAD HEAD^ --name-only -- :^.github
