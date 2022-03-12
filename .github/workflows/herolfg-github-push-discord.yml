@@ -11,11 +11,11 @@ jobs:
       - name: Diff Ignore .github
         id: git_diff
         # run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only -- :^.github)
-        run: echo ::set-output name=gp1
+        run: echo ::set-output name=test::gp1
       - name: Diff Not Ignore .github
         id: git_diff_no_ignore
         # run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only)
-        run: echo ::set-output name=gp1
+        run: echo ::set-output name=test::gp2
       - name: dump job context
         run: echo '${{ toJSON(job) }}'
       - name: dump steps context
