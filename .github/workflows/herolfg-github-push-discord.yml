@@ -7,21 +7,11 @@ jobs:
       - name: Dump GitHub context
         id: github_context_step
         run: echo '${{ toJSON(github) }}'
-      - name: Dump job context
-        run: echo '${{ toJSON(job) }}'
-      - name: Dump steps context
-        run: echo '${{ toJSON(steps) }}'
-      - name: Dump runner context
-        run: echo '${{ toJSON(runner) }}'
-      - name: Dump strategy context
-        run: echo '${{ toJSON(strategy) }}'
-      - name: Dump matrix context
-        run: echo '${{ toJSON(matrix) }}'
       - uses: actions/checkout@v2
       - run: echo "using https://github.com/marketplace/actions/actions-for-discord"
       - name: Discord Notification actions-for-discord
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_HEROLFG_PLAYGROUND_WEBHOOK }}
-          DISCORD_AVATAR: $${{ github.event.build.pusher.avatar_url }}
+          DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/5564129?v=4'
           DISCORD_EMBEDS: '[{"title":"${{ github.event.head_commit.message }}","color":1127128}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
