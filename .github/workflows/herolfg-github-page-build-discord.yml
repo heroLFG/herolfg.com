@@ -10,5 +10,5 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_HEROLFG_PLAYGROUND_WEBHOOK }}
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
-        with:
-          args: '{{ EVENT_PAYLOAD.repository.full_name }} build status: {{ toJson(EVENT_PAYLOAD) }}'
+        # with:
+        #   args: '{{ EVENT_PAYLOAD.repository.full_name }} build status: {{ toJson(EVENT_PAYLOAD) }}'
