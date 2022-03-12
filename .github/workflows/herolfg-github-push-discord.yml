@@ -10,10 +10,10 @@ jobs:
         run: echo '${{ toJSON(github) }}'
       - name: Diff Ignore .github
         id: git_diff
-        run: echo "::set-output name=diff::$(git diff HEAD HEAD^ --name-only -- :^.github)"
+        run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only -- :^.github)
       - name: Diff Not Ignore .github
         id: git_diff_no_ignore
-        run: echo "::set-output name=diff::$(git diff HEAD HEAD^)"
+        run: export GIT_DIFF_NO_IGNORE=$(git diff HEAD HEAD^ --name-only)
       - name: dump env context
         run: echo '${{ toJSON(env) }}'
       - name: dump job context
