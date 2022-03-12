@@ -1,7 +1,7 @@
 name: HeroLFG Push Discord Notif
 on: [push]
 jobs:
-  Share-Page-Build-With-Discord-Server:
+  Share-Push-With-Discord-Server:
     runs-on: ubuntu-latest
     steps:
       - name: Dump GitHub context
@@ -12,6 +12,7 @@ jobs:
       - name: Discord Notification actions-for-discord
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_HEROLFG_PLAYGROUND_WEBHOOK }}
+          DISCORD_USERNAME: 'Page Push Status'
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/5564129?v=4'
           DISCORD_EMBEDS: '[{"title":"${{ github.event.head_commit.message }}","color":1127128}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
