@@ -14,5 +14,5 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_HEROLFG_PLAYGROUND_WEBHOOK }}
           # DISCORD_USERNAME: 'Page Build Status'
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/9197206?v=4'
-          DISCORD_EMBEDS: '[{"title":"${{ github.event.build.status }}","color":1127128},{"title":"https://github.com/heroLFG/herolfg.com/actions"}]'
+          DISCORD_EMBEDS: '[{"title":"Build stats us: ${{ github.event.build.status }}"}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210

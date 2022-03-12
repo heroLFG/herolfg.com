@@ -15,5 +15,5 @@ jobs:
           # DISCORD_USERNAME: 'Page Push Status'
           # DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/5564129?v=4'
           DISCORD_AVATAR: 'https://avatars.githubusercontent.com/u/9197206?v=4'
-          DISCORD_EMBEDS: '[{"title":"${{ github.event.head_commit.message }}","color":1127128}]'
+          DISCORD_EMBEDS: '[{"title":"Rebuilding https://herolfg.com"},{"title":"${{ github.event.head_commit.message }}"},{"title":"Wait for build status..."}]'
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
