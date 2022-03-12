@@ -11,4 +11,4 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_HEROLFG_PLAYGROUND_WEBHOOK }}
         uses: Ilshidur/action-discord@08d9328877d6954120eef2b07abbc79249bb6210
         with:
-          args: '{{ EVENT_PAYLOAD.repository.full_name }} push comment: {{ github.event.head_commit.message }}'
+          args: '{{ EVENT_PAYLOAD.repository.full_name }} push comment: {{ EVENT_PAYLOAD.check_suite.head_commit.message }}'
