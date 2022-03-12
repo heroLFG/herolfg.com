@@ -10,11 +10,9 @@ jobs:
       - name: Diff Ignore .github
         id: git_diff
         run: echo "::set-output name=diff::$(git diff HEAD HEAD^ --name-only -- :^.github)"
-        uses: actions/checkout@v2
       - name: Diff Not Ignore .github
         id: git_diff_no_ignore
         run: echo "::set-output name=diff::$(git diff HEAD HEAD^)"
-        uses: actions/checkout@v2
       - name: dump env context
         run: echo '${{ toJSON(env) }}'
       - name: dump job context
