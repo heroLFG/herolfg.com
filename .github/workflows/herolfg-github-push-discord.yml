@@ -7,9 +7,20 @@ jobs:
       - name: Dump GitHub context
         id: github_context_step
         run: echo '${{ toJSON(github) }}'
-      - uses: actions/checkout@v2
-      - run: git diff HEAD HEAD^ --name-only -- :^.github
-      - run: git diff HEAD HEAD^ --name-only
+      - name: Diff Ignore .github
+        id: git_diff
+        run: echo "::set-output name=diff::$(git diff HEAD HEAD^ --name-only -- :^.github)"
+        uses: actions/checkout@v2
+      - name: Diff Not Ignore .github
+        id: git_diff_no_ignore
+        run: echo "::set-output name=diff::$(git diff HEAD HEAD^)"
+        uses: actions/checkout@v2
+      - name: dump env context
+        run: echo '${{ toJSON(env) }}'
+      - name: dump job context
+        run: echo '${{ toJSON(job) }}'
+      - name: dump steps context
+        run: echo '${{ toJSON(step) }}'
       - run: echo "using https://github.com/marketplace/actions/actions-for-discord"
       - name: Discord Notification actions-for-discord
         env:
