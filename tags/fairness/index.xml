@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>innovation on HeroLFG</title>
-    <link>https://herolfg.com/tags/innovation/</link>
-    <description>Recent content in innovation on HeroLFG</description>
+    <title>fairness on HeroLFG</title>
+    <link>https://herolfg.com/tags/fairness/</link>
+    <description>Recent content in fairness on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2023 06:23:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 06:23:08 -0500</lastBuildDate><atom:link href="https://herolfg.com/tags/fairness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sparking Innovation Through Fair and Transparent Competitions</title>
       <link>https://herolfg.com/posts/sparking-innovation/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://herolfg.com/posts/sparking-innovation/</guid>
       <description>Introduction: In today&amp;rsquo;s fast-paced world, competitions have become a powerful driving force behind innovation and progress. They provide a platform for individuals and organizations to showcase their talents and ideas, pushing the boundaries of what is possible. However, the integrity of these competitions can sometimes be called into question, making it crucial to establish a transparent and unbiased judging system. In this blog post, we&amp;rsquo;ll discuss the importance of fair competitions in fostering innovation and propose a novel judging system to ensure transparency and trust.</description>
-    </item>
-    
-    <item>
-      <title>Secure Card Payments</title>
-      <link>https://herolfg.com/posts/secure-card-payments/</link>
-      <pubDate>Sun, 04 Oct 2020 05:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/posts/secure-card-payments/</guid>
-      <description>My wife checked our bank account this morning and discovered that our debit card had been used by a thief. I verified that the card was in my wallet. I called my bank and cancelled the card so that the thief would not be able to use it again. And I created a dispute for the charge on my bank&amp;rsquo;s website.
-My first thought was that the merchant should be responsible for this kind of thing.</description>
     </item>
     
   </channel>
