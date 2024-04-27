@@ -434,7 +434,7 @@ What is President Biden&amp;rsquo;s Stated Primary Goal?  halt the spread of cor
       <guid>https://herolfg.com/posts/crowdsource-mail/</guid>
       <description>After many years of trying to find a group to help, I was introduced to Jacob Faturechi who shared an experimental idea to fix distributed cognition (or cognitive outsourcing). We call it crowdsource mail.
 This could be code named &amp;ldquo;Project Jethro&amp;rdquo;.
-Exodus 18 Moses&amp;rsquo; father-in-law is named Jethro
+Exodus 18 Moses&#39; father-in-law is named Jethro
  Moses immediately listened to his father-in-law and did all that he had said. Moses chose capable men out of all Israel and appointed them heads over the people, as chiefs of thousands, chiefs of hundreds, chiefs of fifties, and chiefs of tens.</description>
     </item>
     
@@ -586,7 +586,7 @@ I believe the hell you are in is an opportunity to develop your stack of skills 
       <pubDate>Sat, 26 Dec 2020 05:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/posts/advertising-is-fishing-for-people/</guid>
-      <description>I think it is interesting that Jesus&amp;rsquo; first disciples were fishermen who were asked to fish for people. You can have the best product, service, or idea and people will not know about it unless you are able to be successful with your advertising strategies. An advertisement is an attempt to capture a person&amp;rsquo;s attention. Our attention is extremely valuable and every good advertiser knows this.
+      <description>I think it is interesting that Jesus&#39; first disciples were fishermen who were asked to fish for people. You can have the best product, service, or idea and people will not know about it unless you are able to be successful with your advertising strategies. An advertisement is an attempt to capture a person&amp;rsquo;s attention. Our attention is extremely valuable and every good advertiser knows this.
 As a software engineer in organizations which must protect information, I have done security training which taught me how to avoid becoming an attack vector within an organization.</description>
     </item>
     
@@ -655,7 +655,7 @@ Introduction In a dream I am given a test. If everyone in the class picks the fi
       <pubDate>Wed, 04 Nov 2020 04:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/posts/how-to-be-a-better-thought-leader/</guid>
-      <description>“Bernays&amp;rsquo; thesis is that &amp;ldquo;invisible&amp;rdquo; people who create knowledge and propaganda rule over the masses, with a monopoly on the power to shape thoughts, values, and citizen response.” - Wikipedia
+      <description>“Bernays&#39; thesis is that &amp;ldquo;invisible&amp;rdquo; people who create knowledge and propaganda rule over the masses, with a monopoly on the power to shape thoughts, values, and citizen response.” - Wikipedia
  In the current age of the internet, there is no longer a monopoly on the power to shape thoughts, values, and citizen response. Where there was once a monopoly there is now an oligarchy of thought leaders where each person in that oligarchy is a gatekeeper.</description>
     </item>
     
@@ -856,9 +856,17 @@ I have accumulated about 6 years of telework experience since graduating from Au
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://herolfg.com/contact/</guid>
-      <description>Connect with me on LinkedIn
-Or join my Discord server
-Or join my SLACK</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toolbox</title>
+      <link>https://herolfg.com/toolbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://herolfg.com/toolbox/</guid>
+      <description>Lights in the Darkness Informative Website
+The website you are reading is a very cheap static site created with hugo and hosted on github pages. We pay Amazon Web Services for the domain name and dns services to direct people to this website hosted at github pages. The convective heat engine website is an example of a static site we helped build which does not have a custom domain name and costs nothing.</description>
     </item>
     
   </channel>
